@@ -1,4 +1,5 @@
 // import propTypes from 'prop-type'
+import React from 'react'
 function Navbar(props){
     return(
         <>
